@@ -1,0 +1,1 @@
+The idea is to try and build a web based snes emulator using spring and angular . 
